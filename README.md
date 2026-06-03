@@ -32,6 +32,10 @@ Romestead 实时背包修改器源码。
 
 `Mono.Cecil.dll` 是用于修改 .NET 程序集的开源依赖。构建脚本会在缺失时从 NuGet 下载 Mono.Cecil 0.11.6 到本地 `tools/` 目录。
 
+## 所需DLL
+
+- 仓库在 https://github.com/lom2333/RomesteadLiveBridge，有需要的可以前往。
+
 ## 构建
 
 需要 Windows 和 Python 3。
