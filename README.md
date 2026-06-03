@@ -91,7 +91,3 @@ ERR<TAB>message
 ```
 
 `get_inventory` 的 `message` 是 JSON。
-
-## 许可证
-
-发布前请添加你选择的开源许可证，例如 MIT、Apache-2.0 或 GPL。
