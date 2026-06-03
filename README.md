@@ -34,7 +34,8 @@ Romestead 实时背包修改器源码。
 
 ## 所需DLL
 
-- 仓库在 https://github.com/lom2333/RomesteadLiveBridge，有需要的可以前往。
+- 仓库在 https://github.com/lom2333/RomesteadLiveBridge
+- 有需要的可以前往。
 
 ## 构建
 
