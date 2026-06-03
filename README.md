@@ -23,7 +23,6 @@ Romestead 实时背包修改器源码。
 
 - 官方游戏 DLL
 - 官方游戏资源
-- 用户存档 `.char`
 - 已编译 EXE
 - 已编译 `RomesteadLiveBridge.dll`
 - 从游戏数据提取出的完整 `items_catalog.json`
